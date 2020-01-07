@@ -15,6 +15,6 @@ This project was made for Physics classes
 
 
 #### Created by 
-Klaudyna Samelak
-Agata Bączkiewicz
+Klaudyna Samelak,
+Agata Bączkiewicz,
 Szymon Dzięgielewski
